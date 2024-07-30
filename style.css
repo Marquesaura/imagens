@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*borda arredondada em pixels*/
+.img1{
+    border-radius: 8px;
+}
+/*borda arredondada em porcentagem*/
+.img2{
+    border-radius: 50%;
+}
